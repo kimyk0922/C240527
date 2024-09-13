@@ -1,0 +1,11 @@
+﻿  Goblin.cpp
+  Mission.cpp
+C:\study\C++\study\24.05.27\C0527_study\c0527_study\Mission.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Monster.cpp
+  Player.cpp
+C:\study\C++\study\24.05.27\C0527_study\c0527_study\Player.cpp(52,19): warning C4390: ';': empty controlled statement found; is this the intent?
+  Slime.cpp
+  Wildboar.cpp
+  World.cpp
+  Generating Code...
+  c0527_study.vcxproj -> C:\study\C++\study\24.05.27\C0527_study\c0527_study\x64\Debug\c0527_study.exe
